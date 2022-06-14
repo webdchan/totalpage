@@ -1,0 +1,64 @@
+/* 나눔스퀘어 */
+
+@font-face{
+  font-family:NanumSquareL;
+  src:url('../font/NanumSquareL.woff') format('woff');
+}
+@font-face{
+  font-family:NanumSquareR;
+  src:url('../font/NanumSquareR.woff') format('woff');
+}
+@font-face{
+  font-family:NanumSquareB;
+  src:url('../font/NanumSquareB.woff') format('woff');
+}
+@font-face{
+  font-family:NanumSquareEB;
+  src:url('../font/NanumSquareEB.woff') format('woff');
+}
+
+/* NEXON Lv1 */
+
+@font-face{
+  font-family:NEXON1L;
+  src:url('../font/NEXON Lv1 Gothic OTF Light.woff') format('woff');
+}
+
+@font-face{
+  font-family:NEXON1R;
+  src:url('../font/NEXON Lv1 Gothic OTF.woff') format('woff');
+}
+
+@font-face{
+  font-family:NEXON1LB;
+  src:url('../font/NEXON Lv1 Gothic OTF Bold.woff') format('woff');
+}
+
+/* Roboto */
+
+@font-face{
+  font-family:RobotoL;
+  src:url('../font/Roboto-Light.woff') format('woff');
+}
+
+@font-face{
+  font-family:RobotoR;
+  src:url('../font/Roboto-Regular.woff') format('woff');
+}
+
+@font-face{
+  font-family:RobotoB;
+  src:url('../font/Roboto-Bold.woff') format('woff');
+}
+
+@font-face{
+  font-family:RobotoBL;
+  src:url('../font/Roboto-Black.woff') format('woff');
+}
+
+/* GowunDodum */
+
+@font-face{
+  font-family:GowunDodumR;
+  src:url('../font/GowunDodum-Regular.woff') format('woff');
+}
